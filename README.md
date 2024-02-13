@@ -1,14 +1,15 @@
 # Hello, folks! 👋
 
 
-My name is Thiago Perissinotti and I'm a Developer. I'm from Brazil, living in São Paulo Sp and currently open to new opportunities. You can find me on [![LinkedIn][3.2]][3].
+My name is Thiago Perissinotti and I'm a Developer. I'm from Brazil, living in São Paulo, SP and currently open to new opportunities. You can find me on <a href="https://www.linkedin.com/in/thiago-perissinotti/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>.
+- 🌱 I’m currently specializing in Data Engineering☁ and Machine Learning🤖
 <!--
 **thiper01/thiper01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+ ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -33,7 +34,7 @@ Here are some ideas to get you started:
 <!-- icons without padding -->
 
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[3.2]: <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 
 <!-- links to your social media accounts -->
