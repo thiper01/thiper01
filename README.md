@@ -1,7 +1,7 @@
 # Hello, folks! 👋
 
 
-My name is Thiago Perissinotti and I'm a Developer. I'm from Brazil, living in São Paulo, SP and currently open to new opportunities. You can find me on <a href="https://www.linkedin.com/in/thiago-perissinotti/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>.
+### My name is Thiago Perissinotti and I'm a Developer. I'm from Brazil, living in São Paulo, SP and currently open to new opportunities. You can find me on <a href="https://www.linkedin.com/in/thiago-perissinotti/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>.
 - 🌱 I’m currently specializing in Data Engineering☁ and Machine Learning🤖
 <!--
 **thiper01/thiper01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
